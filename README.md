@@ -9,7 +9,7 @@
 ![Pulse-Sensor](https://github.com/shuvabratadey/esp32-Smart-Watch/blob/main/pictures/PULSE_SENSOR.jpg)
 # Connect this to ESP32 then measure heart-beat.
 ![Heart-Beat-Measure](https://github.com/shuvabratadey/esp32-Smart-Watch/blob/main/pictures/HEART_BEAT_MEASURE.jpg)
-# Measure Your Heart-Beat.
+# Measuring Your Heart-Beat.
 ![Heart-Beat-Sensor](https://github.com/shuvabratadey/esp32-Smart-Watch/blob/main/pictures/HEART_BEAT_SENSOR.jpg)
 # Also have a Compass.
 # First Calibrate the Compass then it can show reading.
