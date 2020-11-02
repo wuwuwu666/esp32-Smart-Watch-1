@@ -1,4 +1,4 @@
-# This is a esp32-Smart-Watch
+# Esp32-Smart-Watch
 This is one of the best projects which I made. This is not only a tft lcd based smart watch, 
 it is also an IoT device. 
 It can measure Temperature, humidity and atmospheric pressure and send this data to the server. 
